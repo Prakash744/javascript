@@ -1,2 +1,2 @@
 # javascript
-all the beginner javascript code 
+all the begineer javascript code 
