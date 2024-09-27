@@ -48,7 +48,7 @@ function getData(dataId){
     });
 }
 
-//using async function
+//using async-await function
 async function getAllData(){
     await getData(1);
     await getData(2);
